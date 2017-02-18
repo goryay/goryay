@@ -1,0 +1,2 @@
+# goryay
+viber bot
