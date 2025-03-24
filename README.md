@@ -7,10 +7,11 @@ Junior Python developer
 I am currently undergoing training as a Python developer. During the training process, in addition to theoretical knowledge, practical programming skills were acquired.
 
 * 🌍  I'm based in Moscow
-* 🖥️  See my portfolio at [My portfolio](http://https://github.com/goryay)
+* :floppy_disk:  See my portfolio at [My portfolio](http://https://github.com/goryay)
 * ✉️  You can contact me at [iam.goryn@gmail.com](mailto:iam.goryn@gmail.com)
 * 🚀  I'm currently working on [walkie\_talkie\_db](http://github.com/goryay/walkie_talkie_db)
 * 💬  Telegram bot for technical support [telegram-bot](https://github.com/goryay/telegram-bot)
+* 🖥️  Аpplication for automatic test launch and report collection [MWR](https://github.com/goryay/multitesting-application)
 
 ### Skills
 
